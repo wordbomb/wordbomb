@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently studying in Nanjing University, China ...
+- 🌱 I’m currently learning GIS
+- 🤔 I’m looking for help with mathmatics, cs, GIS, AI
+
 <!--
 **wordbomb/wordbomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
